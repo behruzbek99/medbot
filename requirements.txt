@@ -1,0 +1,19 @@
+# MiniMed Production Requirements
+# PythonAnywhere Server
+
+# Telegram Bot
+aiogram>=3.3.0
+
+# AI - Groq
+groq>=0.4.0
+
+# Configuration
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+
+# Logging
+loguru>=0.7.2
+
+# HTTP Client
+httpx>=0.26.0
